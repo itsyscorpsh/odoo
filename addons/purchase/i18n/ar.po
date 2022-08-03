@@ -55,7 +55,7 @@ msgid ""
 "                'Purchase Order - %s' % (object.name))"
 msgstr ""
 "\n"
-"                (object.state في ('draft', 'sent') و 'طلب عرض السعر - %s' % (object.name) أو\n"
+"                (object.state in ('draft', 'sent') and 'طلب عرض السعر - %s' % (object.name) or\n"
 "                'أمر الشراء - %s' % (object.name))"
 
 #. module: purchase
